@@ -1,0 +1,10 @@
+/private/var/www/Projects/SupervisionGIS/WebApi/bin/Debug/netcoreapp2.0/WebApi.deps.json
+/private/var/www/Projects/SupervisionGIS/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.json
+/private/var/www/Projects/SupervisionGIS/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.dev.json
+/private/var/www/Projects/SupervisionGIS/WebApi/bin/Debug/netcoreapp2.0/WebApi.dll
+/private/var/www/Projects/SupervisionGIS/WebApi/bin/Debug/netcoreapp2.0/WebApi.pdb
+/private/var/www/Projects/SupervisionGIS/WebApi/obj/Debug/netcoreapp2.0/WebApi.csproj.CoreCompileInputs.cache
+/private/var/www/Projects/SupervisionGIS/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfoInputs.cache
+/private/var/www/Projects/SupervisionGIS/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfo.cs
+/private/var/www/Projects/SupervisionGIS/WebApi/obj/Debug/netcoreapp2.0/WebApi.dll
+/private/var/www/Projects/SupervisionGIS/WebApi/obj/Debug/netcoreapp2.0/WebApi.pdb
